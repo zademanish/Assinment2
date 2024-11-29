@@ -21,7 +21,7 @@ const UserDetail = () => {
   }
 
   return (
-    <div className="bg-slate-800 h-screen">
+    <div className="bg-[#000000c5] h-screen">
 
     <div className="p-8 max-w-md mx-auto rounded-md ">
       <div className="space-y-2 bg-slate-100 p-4 rounded-md ">
